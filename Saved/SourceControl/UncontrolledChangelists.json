@@ -5,9 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Kittamet/Desktop/NSC2024/Content/VRTemplate/Maps/VRTemplateMap.umap",
-				"C:/Users/Kittamet/Desktop/NSC2024/Content/test/4444.umap",
-				"C:/Users/Kittamet/Desktop/NSC2024/Content/test/NewWorld.umap"
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Input/Actions/IA_TurnAround.uasset",
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Input/Actions/IA_MoveX.uasset",
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Input/Actions/IA_MoveY.uasset",
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"/Users/gbru/Documents/Unreal Projects/porthm/Content/VRTemplate/Input/IMC_Default.uasset"
 			]
 		}
 	]
